@@ -4,3 +4,6 @@ To update submodules and libraries you can use git submodule update --init --rec
 init_update_libs.sh
 wget -O- ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng16/libpng-1.6.21.tar.xz | tar xJ
 png not exist, self download
+
+
+built binary:http://download.csdn.net/download/starpicker/9643872
